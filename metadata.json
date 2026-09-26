@@ -1,0 +1,6 @@
+{
+  "name": "Franja Marketing",
+  "description": "Automatiza tus campañas comerciales y llega a miles de clientes automáticamente con WhatsApp, Gmail e Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
