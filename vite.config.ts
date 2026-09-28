@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Franja-Marketing/', // <--- Esta línea soluciona el problema de la pantalla en blanco
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
